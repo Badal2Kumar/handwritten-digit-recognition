@@ -2,7 +2,7 @@
 A machine learning project that recognizes handwritten digits (0–9) from the
 MNIST dataset using multiple models: Logistic Regression and Random Forest
 (scikit-learn) and a Neural Network (TensorFlow/Keras), with full evaluation
-and visual comparison of results.
+and visual comparison of Results.
 
 ## Table of Contents
 - [Dataset](#dataset)
